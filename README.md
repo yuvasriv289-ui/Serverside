@@ -2,7 +2,10 @@
 ## Date:
 
 ## AIM:
-To design a website to perform mathematical calculations in server side.
+To design a website to find total surface area of a square prism in server side.
+
+## Formula
+![image](https://github.com/selvasachein/MathServer/assets/120453887/8ecc8d12-b9a9-43df-be0b-711f299d796d)
 
 ## DESIGN STEPS:
 
