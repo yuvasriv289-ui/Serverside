@@ -5,7 +5,9 @@
 To design a website to find total surface area of a square prism in server side.
 
 ## FORMULA:
-![image](https://github.com/selvasachein/MathServer/assets/120453887/8ecc8d12-b9a9-43df-be0b-711f299d796d)
+Total Surface Area = 2b<sup>2</sup> + 4bh
+<br>b --> Base of Square Prism
+<br>h --> Height of Square Prism
 
 ## DESIGN STEPS:
 
