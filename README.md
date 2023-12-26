@@ -2,12 +2,12 @@
 ## Date:
 
 ## AIM:
-To design a website to find total surface area of a square prism in server side.
+To design a website to find surface area of a Right Cylinder in server side.
 
 ## FORMULA:
-Total Surface Area = 2b<sup>2</sup> + 4bh
-<br>b --> Base of Square Prism
-<br>h --> Height of Square Prism
+Surface Area = 2Πrh + 2Πr<sup>2</sup>
+<br>r --> Radius of Right Cylinder
+<br>h --> Height of Right Cylinder
 
 ## DESIGN STEPS:
 
